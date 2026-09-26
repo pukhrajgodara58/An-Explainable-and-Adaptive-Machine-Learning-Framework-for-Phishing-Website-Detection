@@ -1,6 +1,7 @@
 # Phishing URL Detection 
-![image](https://1drv.ms/i/c/115e6f7442733dbd/IQCvYkmAncOrSr9QhwqMTjPSAQKA8s9d1TsL3RC7eH2ALLo?e=D5q0XJ)
-![image](https://user-images.githubusercontent.com/79131292/144742785-d183f50a-52d6-4296-a43a-90a1ee3502d8.png)
+![Phishing URL Detection Website](Image/phishing.png)
+![Phishing URL Detection Website](Image/Legimate.png)
+
 
 
 ## Table of Content

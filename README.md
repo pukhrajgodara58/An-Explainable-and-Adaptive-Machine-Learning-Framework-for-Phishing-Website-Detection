@@ -1,6 +1,7 @@
 # Phishing URL Detection 
-![Phishing URL Detection Website](Image/phishing.png)
-![Phishing URL Detection Website](Image/Legimate.png)
+
+![Phishing URL Detection Website](Images/Phishing.png)
+![Phishing URL Detection Website](Images/Legimate.png)
 
 
 
